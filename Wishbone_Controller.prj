@@ -1,0 +1,8 @@
+verilog work "txuart.v"
+verilog work "txfifo.v"
+verilog work "rxuart.v"
+verilog work "wbuart.v"
+verilog work "ipcore_dir/ila.v"
+verilog work "ipcore_dir/icon.v"
+verilog work "hex7seg.v"
+verilog work "controller.v"

@@ -1,0 +1,22 @@
+NET "i_clk" LOC = "P126";
+
+NET "o_uart_tx"   LOC = "P11";
+NET "i_uart_rx"   LOC = "P14";
+
+NET "a_to_g[0]" LOC = P12;
+NET "a_to_g[1]" LOC = P74;
+NET "a_to_g[2]" LOC = P75;
+NET "a_to_g[3]" LOC = P78;
+NET "a_to_g[4]" LOC = P79;
+NET "a_to_g[5]" LOC = P80;
+NET "a_to_g[6]" LOC = P81;
+
+
+NET "en[0]" LOC = P82;
+NET "en[1]" LOC = P83;
+NET "en[2]" LOC = P84;
+NET "en[3]" LOC = P85;
+NET "en[4]" LOC = P87;
+NET "en[5]" LOC = P88;
+NET "en[6]" LOC = P92;
+NET "en[7]" LOC = P93;

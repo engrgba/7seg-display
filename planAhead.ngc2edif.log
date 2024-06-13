@@ -1,0 +1,106 @@
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design KIT7_SEG_TOP.ngc ...
+WARNING:NetListWriters:298 - No output is written to KIT7_SEG_TOP.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg0<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg1<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg2<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg3<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg4<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg5<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg6<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/rx_data_reg7<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   wc1/o_wb_data[31]_rx_data_reg0[31]_mux_117_OUT<12 : 0> on block KIT7_SEG_TOP
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   wc1/state[2]_o_wb_data[31]_wide_mux_132_OUT<12 : 0> on block KIT7_SEG_TOP is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus wc1/o_wb_data<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/wbu/o_wb_data<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   wc1/wbu/r_wb_addr[1]_wb_tx_data[31]_wide_mux_29_OUT<12 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   wc1/wbu/rx/Mcompar_GND_4_o_chg_counter[27]_LessThan_19_o_lut<10 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   wc1/wbu/rx/Msub_GND_4_o_GND_4_o_sub_79_OUT<23:0>_lut<5 : 1> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/wbu/rx/half_baud<7 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus wc1/wbu/rx/GND_4_o_GND_4_o_sub_79_OUT<8
+   : 0> on block KIT7_SEG_TOP is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus wc1/wbu/rx/r_setup<8 : 0> on block
+   KIT7_SEG_TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   wc1/wbu/tx/Msub_GND_7_o_GND_7_o_sub_49_OUT_lut<8 : 1> on block KIT7_SEG_TOP
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus wc1/wbu/tx/GND_7_o_GND_7_o_sub_49_OUT<8
+   : 0> on block KIT7_SEG_TOP is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus seg/a_to_g<6 : 1> on block KIT7_SEG_TOP
+   is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file KIT7_SEG_TOP.edif ...
+ngc2edif: Total memory usage is 4314504 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design icon.ngc ...
+WARNING:NetListWriters:298 - No output is written to icon.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus U0/U_ICON/iCORE_ID_SEL<15 : 0> on block
+   icon is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file icon.edif ...
+ngc2edif: Total memory usage is 4314504 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design ila.ngc ...
+WARNING:NetListWriters:298 - No output is written to ila.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus
+   U0/I_YES_D.U_ILA/U_RST/U_HALT_XFER/iDOUT_dly<2 : 0> on block ila is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   U0/I_YES_D.U_ILA/U_RST/U_ARM_XFER/iDOUT_dly<4 : 0> on block ila is not
+   reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file ila.edif ...
+ngc2edif: Total memory usage is 4322696 kilobytes
+
